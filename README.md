@@ -106,11 +106,11 @@ docker build -t praveensingam1994/productcatalogue:latest .
 
 docker build -t praveensingam1994/stockmanager:latest .
 
-4) Push the image to your docker hub -> docker push praveensingam1994/shopfront:latest 
+4) Push the image to your docker hub -> docker push gopalagabbita/shopfront:latest 
 
-docker push praveensingam1994/productcatalogue:latest
+docker push gopalagabbita/productcatalogue:latest
 
-docker push praveensingam1994/stockmanager:latest
+docker push gopalagabbita/stockmanager:latest
 
 5) Go to kubernetes folder and create the pods -> 
 
